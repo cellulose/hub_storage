@@ -1,0 +1,9 @@
+%{"cowboy": {:hex, :cowboy, "1.0.0"},
+  "cowlib": {:hex, :cowlib, "1.0.1"},
+  "httpotion": {:git, "git://github.com/myfreeweb/httpotion.git", "0ade062cc73122486d33ceb5e713a417f7afdfde", []},
+  "hub": {:git, "git://github.com/cellulose/hub.git", "1435c176950e54ff9864d48fffffcf9975090b57", []},
+  "ibrowse": {:git, "git://github.com/cmullaparthi/ibrowse.git", "d2e369ff42666c3574b8b7ec26f69027895c4d94", [tag: "v4.1.1"]},
+  "jrtp_bridge": {:git, "git://github.com/cellulose/jrtp_bridge.git", "eee1012b5897fc4f1e771730cf2c935a25168956", []},
+  "jsx": {:git, "git://github.com/talentdeficit/jsx.git", "e50af6e109cb03bd26acf715cbc77de746507d1d", [ref: "v1.4.3"]},
+  "persistent_storage": {:git, "git://github.com/cellulose/persistent_storage.git", "312641eed8e15d4c941223e558d4120bb4f08ed8", []},
+  "ranch": {:hex, :ranch, "1.0.0"}}
