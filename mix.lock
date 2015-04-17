@@ -1,5 +1,7 @@
 %{"cowboy": {:hex, :cowboy, "1.0.0"},
   "cowlib": {:hex, :cowlib, "1.0.1"},
+  "earmark": {:hex, :earmark, "0.1.15"},
+  "ex_doc": {:hex, :ex_doc, "0.7.2"},
   "httpotion": {:git, "git://github.com/myfreeweb/httpotion.git", "0ade062cc73122486d33ceb5e713a417f7afdfde", []},
   "hub": {:git, "git://github.com/cellulose/hub.git", "1435c176950e54ff9864d48fffffcf9975090b57", []},
   "ibrowse": {:git, "git://github.com/cmullaparthi/ibrowse.git", "d2e369ff42666c3574b8b7ec26f69027895c4d94", [tag: "v4.1.1"]},
