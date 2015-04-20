@@ -10,7 +10,7 @@ defmodule HubStorage.Mixfile do
 
   #For testing add :cowboy and :jsx to applications
   def application, do: [
-      applications: [ :hub, :logger]
+      applications: [ :hub]
   ]
 
   defp deps(:test), do: deps(:dev) ++ [
